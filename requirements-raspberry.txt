@@ -1,0 +1,4 @@
+adafruit-circuitpython-neopixel==6.3.9
+rpi-ws281x==5.0.0
+python-dotenv==0.21.1
+numpy==1.21.6
