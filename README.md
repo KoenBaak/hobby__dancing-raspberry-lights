@@ -1,5 +1,5 @@
 # hobby__dancing-raspberry-lights
-LED Strip connect to a Raspberry PI dancing to music played on another device
+LED Strip connected to a Raspberry PI dancing to music played on another device
 
 This is an old hobby project. Originally created in November 2021 and uploaded
 without changes to GitHub in 2023. 
