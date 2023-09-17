@@ -19,6 +19,7 @@ visualize it. However, there were problems with playing audio over aux and manag
 simultaneously on the Pi.
 - This project is not tested on any other setup then my own. It is probably quite
 - senstive to changes in platform, specific LED strip, package versions, etc...
+- The actual audio processing to light comes from [this blog post](https://yager.io/LEDStrip/LED.html).
 
 ## Config
 In the `config.env` file you will need:
